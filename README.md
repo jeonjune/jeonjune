@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=JEONJUNE's%20GITHUB&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:e0c3fc,100:8ec5fc&height=200&section=header&text=JEONJUNE's%20GITHUB&fontSize=50&stroke=e0c3fc" />
 </div>
   
 <!--내용 부분-->
