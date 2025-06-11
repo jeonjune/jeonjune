@@ -1,11 +1,13 @@
 <div align="center">
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jeonjune&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/jeonjune?pet-id=720530902183504167"
-    width="1000"
+    src="https://render.gitanimals.org/lines/jeonjune?pet-id=720543908787322779"
+    width="600"
     height="120"
   />
 </a>
+  
 </div>
 
 <div align="center">
