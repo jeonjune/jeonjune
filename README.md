@@ -26,7 +26,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
 </div>
